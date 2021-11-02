@@ -1,4 +1,4 @@
-# Rock_Paper_Scissors_Game
+# Rock Paper Scissor Game
 Play it here and enjoy.
 
 https://rock-paper-scissors-game-js.netlify.app/
